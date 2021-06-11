@@ -35,3 +35,7 @@ Here are some other examples using the Seesaw library
 .. literalinclude:: ../examples/seesaw_rotary_neopixel.py
     :caption: examples/seesaw_rotary_neopixel.py
     :linenos:
+
+.. literalinclude:: ../examples/seesaw_neokey1x4_simpletest.py
+    :caption: examples/seesaw_neokey1x4_simpletest.py
+    :linenos:
